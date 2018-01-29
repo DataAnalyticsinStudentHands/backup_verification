@@ -1,0 +1,84 @@
+
+### BEGIN BACKUP REPORT 2016_10_12 12:33:14 ###
+Machine	Unix time	Readable time	Last modified directory	Notes
+
+max-test	1475881880	Oct  7 18:11:20 2016	.backup
+hc-206d	1475881905	Oct  7 18:11:45 2016	.backup
+hc-asmussen	1475882072	Oct  7 18:14:32 2016	.backup
+hc-brown	1475882257	Oct  7 18:17:37 2016	.backup
+hc-brunt	1475882284	Oct  7 18:18:04 2016	.backup
+hc-cremins	1475882476	Oct  7 18:21:16 2016	.backup
+hc-dash5	1475882556	Oct  7 18:22:36 2016	.backup
+hc-lamson	1475882782	Oct  7 18:26:22 2016	.backup
+hc-fletcher	1475882811	Oct  7 18:26:51 2016	.backup
+hc-fmp	1475883023	Oct  7 18:30:23 2016	.backup
+hc-harvey	1475883236	Oct  7 18:33:56 2016	.backup
+hc-drainbow	1475883586	Oct  7 18:39:46 2016	.backup
+hc-leveaux	1475883710	Oct  7 18:41:50 2016	.backup
+hc-lindner	1475884678	Oct  7 18:57:58 2016	.backup
+hc-lyke	1475884723	Oct  7 18:58:43 2016	.backup
+hc-morrisson	1475884746	Oct  7 18:59:06 2016	.backup
+hc-myrick	1475885640	Oct  7 19:14:00 2016	.backup
+hc-price	1475886814	Oct  7 19:33:34 2016	.backup
+hc-rios	1475887027	Oct  7 19:37:07 2016	.backup
+hc-sirrieh	1475887243	Oct  7 19:40:43 2016	.backup
+hc-valier	1475887509	Oct  7 19:45:09 2016	.backup
+hc-weber	1475888154	Oct  7 19:55:54 2016	.backup
+hc-206C	1475888416	Oct  7 20:00:16 2016	.backup
+hc-IT	1475889421	Oct  7 20:17:01 2016	.backup
+hc-it-laptop	1475889562	Oct  7 20:19:22 2016	.backup
+hc-zecher	1475889584	Oct  7 20:19:44 2016	.backup
+hc-maya	1475889650	Oct  7 20:20:50 2016	.backup
+hc-keen	1475889914	Oct  7 20:25:14 2016	.backup
+hc-hennessy	1475889968	Oct  7 20:26:08 2016	.backup
+Dean-Monroes-iMac	1475881877	Oct  7 18:11:17 2016	.backup
+
+### END BACKUP REPORT 12:33:15 ###
+
+Unmounting network storage device...
+
+### BEGIN BACKUP REPORT 2016_10_12 12:36:12 ###
+Machine	Unix time	Readable time	Last modified directory	Notes
+
+max-test			ERROR: RECURSIVE SEARCH FAILED
+### END BACKUP REPORT 12:36:19 ###
+
+Unmounting network storage device...
+
+### BEGIN BACKUP REPORT 2016_10_12 12:39:00 ###
+Machine	Unix time	Readable time	Last modified directory	Notes
+
+max-test	1475682378	Oct  5 10:46:18 2016	.
+hc-206d	1476241190	Oct 11 21:59:50 2016	./Users/kemeyer/Library/Preferences
+hc-asmussen	1476224346	Oct 11 17:19:06 2016	./Users/jkgajan/Library/Preferences
+hc-brown	1476240953	Oct 11 21:55:53 2016	./Users/jbbrown4/Library/Caches
+hc-brunt	1476241130	Oct 11 21:58:50 2016	./Users/cmbrunt2/Library/Preferences
+hc-cremins	1476227169	Oct 11 18:06:09 2016	./Users/rcremins/Library/Preferences
+hc-dash5	1475974801	Oct  8 20:00:01 2016	./Users/Guest/Library
+hc-lamson	1476114983	Oct 10 10:56:23 2016	./Users/bdlamson/Library/Cookies
+hc-fletcher	1476241191	Oct 11 21:59:51 2016	./Users/ehfletch/Library/Preferences
+hc-fmp	1476251242	Oct 12 00:47:22 2016	./Users/hcadmin/Library/Preferences
+hc-harvey	1476240804	Oct 11 21:53:24 2016	./Users/jrharvey/Library/Preferences
+hc-drainbow	1476243579	Oct 11 22:39:39 2016	./Users/drainbow/Library/Mail/V3/IMAP-david.e.rainbow@imap.gmail.com
+hc-leveaux	
+hc-lindner	1476241155	Oct 11 21:59:15 2016	./Users/plindner/Library/Preferences
+hc-lyke	1475689551	Oct  5 12:45:51 2016	.
+hc-morrisson	1475689572	Oct  5 12:46:12 2016	.
+hc-myrick	1476241192	Oct 11 21:59:52 2016	./Users/kdmyric2/Library/Preferences
+hc-price	1476240747	Oct 11 21:52:27 2016	./Users/dprice3/Library/Preferences
+hc-rios	1476222957	Oct 11 16:55:57 2016	./Users/cerios/Library/Preferences
+hc-sirrieh	1476241212	Oct 11 22:00:12 2016	./Users/resirrie/Library/Preferences
+hc-valier	1476147652	Oct 10 20:00:52 2016	./Users/hkvalier/Library/SyncedPreferences
+hc-weber	1476220805	Oct 11 16:20:05 2016	./Users/kweber2/Library/Caches
+hc-206C	1476143190	Oct 10 18:46:30 2016	./Users/jhfergus/Library/Preferences
+hc-IT	1476235813	Oct 11 20:30:13 2016	./Users/hcadmin/Library/SyncedPreferences
+hc-it-laptop	1476220762	Oct 11 16:19:22 2016	./Users/hcadmin/Library/Caches
+hc-zecher	
+hc-maya	1475689660	Oct  5 12:47:40 2016	.
+hc-keen	1476241195	Oct 11 21:59:55 2016	./Users/sakeen/Documents/Microsoft User Data/Office 2011 Identities/Main Identity/Data Records/Exchange Sync/0T/0B/0M/2K
+hc-hennessy	1476234005	Oct 11 20:00:05 2016	./Users/jahennes/Library
+Dean-Monroes-iMac	1475682155	Oct  5 10:42:35 2016	.
+
+### END BACKUP REPORT 15:51:44 ###
+
+Unmounting network storage device...

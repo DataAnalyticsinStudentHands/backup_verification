@@ -1,0 +1,89 @@
+
+### BEGIN BACKUP REPORT 2016_11_07 09:45:31 ###
+Machine	Unix time	Readable time	Last modified directory	Status
+
+max-test	1478095069	Nov  2 08:57:49 2016	.backup	OK
+hc-206d	1478095102	Nov  2 08:58:22 2016	.backup	OK
+hc-asmussen	1478095312	Nov  2 09:01:52 2016	.backup	OK
+hc-brown	1478095552	Nov  2 09:05:52 2016	.backup	OK
+hc-brunt	1478095579	Nov  2 09:06:19 2016	.backup	OK
+hc-cremins	1478095779	Nov  2 09:09:39 2016	.backup	OK
+hc-dash5	1478095863	Nov  2 09:11:03 2016	.backup	OK
+hc-lamson	1478096085	Nov  2 09:14:45 2016	.backup	OK
+hc-fletcher	1478096114	Nov  2 09:15:14 2016	.backup	OK
+hc-fmp	1478096337	Nov  2 09:18:57 2016	.backup	OK
+hc-harvey	1478096549	Nov  2 09:22:29 2016	.backup	OK
+hc-drainbow	1478096939	Nov  2 09:28:59 2016	.backup	OK
+hc-leveaux	1478097095	Nov  2 09:31:35 2016	.backup	OK
+hc-lindner	1478098119	Nov  2 09:48:39 2016	.backup	OK
+hc-lyke	1478098190	Nov  2 09:49:50 2016	.backup	OK
+hc-morrisson	1478098217	Nov  2 09:50:17 2016	.backup	OK
+hc-myrick	1478099138	Nov  2 10:05:38 2016	.backup	OK
+hc-price	1478100324	Nov  2 10:25:24 2016	.backup	OK
+hc-rios	1478100545	Nov  2 10:29:05 2016	.backup	OK
+hc-sirrieh	1478100774	Nov  2 10:32:54 2016	.backup	OK
+hc-valier	1478101047	Nov  2 10:37:27 2016	.backup	OK
+hc-weber	1478101717	Nov  2 10:48:37 2016	.backup	OK
+hc-206C	1478102003	Nov  2 10:53:23 2016	.backup	OK
+hc-IT	1478103057	Nov  2 11:10:57 2016	.backup	OK
+hc-it-laptop	1478103212	Nov  2 11:13:32 2016	.backup	OK
+hc-zecher	1478103234	Nov  2 11:13:54 2016	.backup	OK
+hc-maya	1478103300	Nov  2 11:15:00 2016	.backup	OK
+hc-keen	1478103572	Nov  2 11:19:32 2016	.backup	OK
+hc-hennessy	1478103629	Nov  2 11:20:29 2016	.backup	OK
+Dean-Monroes-iMac	1478106967	Nov  2 12:16:07 2016	.backup	OK
+
+0 / 30 machines are OK
+### END BACKUP REPORT 09:45:34 ###
+
+### BEGIN BACKUP REPORT 2016_11_07 10:48:38 ###
+Machine	Unix time	Readable time	Last modified directory	Status
+
+max-test	1475682378	Oct  5 10:46:18 2016	.	OK
+hc-206d	1478491066	Nov  6 21:57:46 2016	./Users/kemeyer/Library/Preferences	OK
+
+0 / 30 machines are OK
+### END BACKUP REPORT 10:50:50 ###
+
+### BEGIN BACKUP REPORT 2016_11_07 10:51:59 ###
+Machine	Unix time	Readable time	Last modified directory	Status
+
+hc-206c	1478291271	Nov  4 15:27:51 2016	./Users/jhfergus/Library/Caches	OK
+hc-206d	1478491066	Nov  6 21:57:46 2016	./Users/kemeyer/Library/Preferences	OK
+hc-armstrong			ERROR: MACHINE NOT FOUND
+hc-asmussen	1478296289	Nov  4 16:51:29 2016	./Users/jkgajan/Documents/Microsoft User Data/Office 2011 Identities/Main Identity/Data Records/Folders/0T/0B/0M/20K	OK
+hc-benz	1478307605	Nov  4 20:00:05 2016	./Users/cmbenz/Library	OK
+hc-bmonroe	1478491206	Nov  6 22:00:06 2016	./Users/wfmonroe/Library/Preferences	OK
+hc-brown	1478212846	Nov  3 17:40:46 2016	./Users/jbbrown4/Library/Preferences	OK
+hc-brunt	1478324620	Nov  5 00:43:40 2016	./Users/cmbrunt2/Library/Preferences	OK
+hc-cremins	1478286323	Nov  4 14:05:23 2016	./Users/rcremins/Library/Preferences	OK
+hc-drainbow	1478300030	Nov  4 17:53:50 2016	./Users/drainbow/Library/SyncedPreferences	OK
+hc-fletcher	1478491191	Nov  6 21:59:51 2016	./Users/ehfletch/Library/Preferences	OK
+hc-fmp	1478501297	Nov  7 00:48:17 2016	./Users/hcadmin/Library/Preferences	OK
+hc-harvey	1478055506	Nov  1 21:58:26 2016	./Users/jrharvey/Library/Preferences	OK
+hc-hayes	1478492386	Nov  6 22:19:46 2016	./Users/mshayes/Documents/Microsoft User Data/Office 2011 Identities/Main Identity/Data Records/Exchange Sync/0T/0B/0M/0K	OK
+hc-hennessy	1478307605	Nov  4 20:00:05 2016	./Users/jahennes/Library	OK
+hc-jrainbow	1478289381	Nov  4 14:56:21 2016	./Users/jjrainbo/Library/Caches	OK
+hc-keen	1478490983	Nov  6 21:56:23 2016	./Users/sakeen/Library/Preferences	OK
+hc-lamson	1478285441	Nov  4 13:50:41 2016	./Users/bdlamson/Library/Preferences	OK
+hc-leeland			ERROR: MACHINE NOT FOUND
+hc-leveaux	1478490918	Nov  6 21:55:18 2016	./Users/cleveaux/Library/Google/GoogleSoftwareUpdate/Stats	OK
+hc-lhallmark	1478297328	Nov  4 17:08:48 2016	./Users/lghallma/Library/Preferences	OK
+hc-lindner	1478491204	Nov  6 22:00:04 2016	./Users/plindner/Library/Logs/DiagnosticReports	OK
+hc-lyke		OK
+hc-maya	1477969094	Oct 31 21:58:14 2016	./Users/gmaya/Library/Preferences	OK
+hc-morrisson	1478228531	Nov  3 22:02:11 2016	./Users/ipmorris/Desktop/From DT/KANT	OK
+hc-myrick	1478055611	Nov  1 22:00:11 2016	./Users/kdmyric2/Library/Preferences	OK
+hc-newmann			ERROR: MACHINE NOT FOUND
+hc-price	1478288507	Nov  4 14:41:47 2016	./Users/dprice3/Library/Caches	OK
+hc-reynolds	1478291382	Nov  4 15:29:42 2016	./Users/aereynol/Library/Caches	OK
+hc-rios	1478446152	Nov  6 09:29:12 2016	./Users/cerios/Library/Preferences	OK
+hc-sirrieh	1478491213	Nov  6 22:00:13 2016	./Users/resirrie/Library/Preferences	OK
+hc-valier	1478307507	Nov  4 19:58:27 2016	./Users/hkvalier/Library/SyncedPreferences	OK
+hc-weber	1478290466	Nov  4 15:14:26 2016	./Users/kweber2/Library/Caches	OK
+hc-zecher		OK
+hc-IT	1478491211	Nov  6 22:00:11 2016	./Users/hcadmin/Library/Preferences	OK
+hc-it-laptop	1478491024	Nov  6 21:57:04 2016	./Users/hcadmin/Library/Preferences	OK
+
+0 / 36 machines are OK
+### END BACKUP REPORT 14:12:31 ###

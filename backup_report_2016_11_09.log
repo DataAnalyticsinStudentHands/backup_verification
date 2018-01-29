@@ -1,0 +1,43 @@
+
+### BEGIN BACKUP REPORT 2016_11_09 09:55:51 ###
+Machine	Unix time	Readable time	Last modified directory	Status
+
+hc-206c	1478537808	Nov  7 10:56:48 2016	.backup	OK
+hc-206d	1478537843	Nov  7 10:57:23 2016	.backup	OK
+hc-armstrong			ERROR: MACHINE NOT FOUND
+hc-asmussen	1478538052	Nov  7 11:00:52 2016	.backup	OK
+hc-benz	1478538447	Nov  7 11:07:27 2016	.backup	OK
+hc-bmonroe	1478540463	Nov  7 11:41:03 2016	.backup	OK
+hc-brown	1478540717	Nov  7 11:45:17 2016	.backup	OK
+hc-brunt	1478540744	Nov  7 11:45:44 2016	.backup	OK
+hc-cremins	1478540955	Nov  7 11:49:15 2016	.backup	OK
+hc-drainbow	1478541354	Nov  7 11:55:54 2016	.backup	OK
+hc-fletcher	1478541384	Nov  7 11:56:24 2016	.backup	OK
+hc-fmp	1478541614	Nov  7 12:00:14 2016	.backup	OK
+hc-harvey	1478541830	Nov  7 12:03:50 2016	.backup	OK
+hc-hayes	1478542155	Nov  7 12:09:15 2016	.backup	OK
+hc-hennessy	1478542220	Nov  7 12:10:20 2016	.backup	OK
+hc-jrainbow	1478542379	Nov  7 12:12:59 2016	.backup	OK
+hc-keen	1478542718	Nov  7 12:18:38 2016	.backup	OK
+hc-lamson	1478542948	Nov  7 12:22:28 2016	.backup	OK
+hc-leeland			ERROR: MACHINE NOT FOUND
+hc-leveaux	1478543185	Nov  7 12:26:25 2016	.backup	OK
+hc-lhallmark	1478543274	Nov  7 12:27:54 2016	.backup	OK
+hc-lindner	1478544325	Nov  7 12:45:25 2016	.backup	OK
+hc-lyke	1478544398	Nov  7 12:46:38 2016	.backup	OK
+hc-maya	1478544468	Nov  7 12:47:48 2016	.backup	OK
+hc-morrisson	1478544496	Nov  7 12:48:16 2016	.backup	OK
+hc-myrick	1478545471	Nov  7 13:04:31 2016	.backup	OK
+hc-newmann			ERROR: MACHINE NOT FOUND
+hc-price	1478546706	Nov  7 13:25:06 2016	.backup	OK
+hc-reynolds	1478546890	Nov  7 13:28:10 2016	.backup	OK
+hc-rios	1478547120	Nov  7 13:32:00 2016	.backup	OK
+hc-sirrieh	1478547356	Nov  7 13:35:56 2016	.backup	OK
+hc-valier	1478547636	Nov  7 13:40:36 2016	.backup	OK
+hc-weber	1478548311	Nov  7 13:51:51 2016	.backup	OK
+hc-zecher	1478548333	Nov  7 13:52:13 2016	.backup	OK
+hc-IT	1478549393	Nov  7 14:09:53 2016	.backup	OK
+hc-it-laptop	1478549551	Nov  7 14:12:31 2016	.backup	OK
+
+0 / 36 machines are OK
+### END BACKUP REPORT 09:55:53 ###

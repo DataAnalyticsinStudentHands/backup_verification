@@ -1,0 +1,37 @@
+
+### BEGIN BACKUP REPORT 2016_11_02 08:57:45 ###
+Machine	Unix time	Readable time	Last modified directory	Status
+
+max-test	1475682378	Oct  5 10:46:18 2016	.	OK
+hc-206d	1478055447	Nov  1 21:57:27 2016	./Users/kemeyer/Library/Preferences	OK
+hc-asmussen	1478039256	Nov  1 17:27:36 2016	./Users/jkgajan/Documents/Microsoft User Data/Office 2011 Identities/Main Identity/Data Records/Exchange Sync/0T/0B/0M/0K	OK
+hc-brown	1478040570	Nov  1 17:49:30 2016	./Users/jbbrown4/Library/Preferences	OK
+hc-brunt	1478035279	Nov  1 16:21:19 2016	./Users/cmbrunt2/Library/Preferences	OK
+hc-cremins	1477941424	Oct 31 14:17:04 2016	./Users/rcremins/Library/Preferences	OK
+hc-dash5	1477332700	Oct 24 13:11:40 2016	./Users/Guest/Library/Caches	OK
+hc-lamson	1477679245	Oct 28 13:27:25 2016	./Users/bdlamson/Library/Preferences	OK
+hc-fletcher	1478055591	Nov  1 21:59:51 2016	./Users/ehfletch/Library/Preferences	OK
+hc-fmp	1478066195	Nov  2 00:56:35 2016	./Users/hcadmin/Library/Preferences	OK
+hc-harvey	1478055506	Nov  1 21:58:26 2016	./Users/jrharvey/Library/Preferences	OK
+hc-drainbow	1478036159	Nov  1 16:35:59 2016	./Users/drainbow/Library/SyncedPreferences	OK
+hc-leveaux		OK
+hc-lindner	1478055606	Nov  1 22:00:06 2016	./Users/plindner/Library/Logs/DiagnosticReports	OK
+hc-lyke		OK
+hc-morrisson	1478055744	Nov  1 22:02:24 2016	./Users/ipmorris/Desktop/From DT/KANT	OK
+hc-myrick	1478055611	Nov  1 22:00:11 2016	./Users/kdmyric2/Library/Preferences	OK
+hc-price	1478055099	Nov  1 21:51:39 2016	./Users/dprice3/Library/Preferences	OK
+hc-rios	1478036636	Nov  1 16:43:56 2016	./Users/cerios/Library/Preferences	OK
+hc-sirrieh	1478055612	Nov  1 22:00:12 2016	./Users/resirrie/Library/Preferences	OK
+hc-valier	1478043506	Nov  1 18:38:26 2016	./Users/hkvalier/Library/SyncedPreferences	OK
+hc-weber	1478045052	Nov  1 19:04:12 2016	./Users/kweber2/Library/Preferences	OK
+hc-206C	1477955573	Oct 31 18:12:53 2016	./Users/jhfergus/Library/Preferences	OK
+hc-IT	1478040399	Nov  1 17:46:39 2016	./Users/cjkendri/Library/Preferences	OK
+hc-it-laptop	1478037633	Nov  1 17:00:33 2016	./Users/hcadmin/Library/Preferences/ByHost	OK
+hc-zecher	1475689594	Oct  5 12:46:34 2016	.	OK
+hc-maya	1477969094	Oct 31 21:58:14 2016	./Users/gmaya/Library/Preferences	OK
+hc-keen	1478055538	Nov  1 21:58:58 2016	./Users/sakeen/Library/Containers/com.apple.corerecents.recentsd/Data/Library/SyncedPreferences	OK
+hc-hennessy	1478048405	Nov  1 20:00:05 2016	./Users/jahennes/Library	OK
+Dean-Monroes-iMac		OK
+
+0 / 30 machines are OK
+### END BACKUP REPORT 12:16:07 ###

@@ -1,0 +1,8 @@
+#!/bin/sh
+
+hcstorage="http://hc-storage.cougarnet.uh.edu"
+echo "Getting Backup Script..."
+usr/bin/curl -s --show-error $hcstorage/scripts/backup.sh -o "/usr/local/bin/backup.sh" --create-dirs
+/bin/chmod +x /usr/local/bin/backup.sh 
+/usr/bin/curl -s --show-error $hcstorage/plists/edu.uh.honors.backup.plist -o "/Library/LaunchDaemons/edu.uh.honors.backup.plist"
+/bin/chmod 644 /Library/LaunchDaemons/edu.uh.honors.backup.plist
